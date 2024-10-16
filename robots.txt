@@ -1,0 +1,3 @@
+﻿User-agent: *
+Disallow: /*?*
+Sitemap: https://bonoraly.github.io/sitemap.xml
