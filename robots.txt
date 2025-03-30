@@ -2,5 +2,5 @@
 Disallow: /*?*
 Sitemap: https://bonoraly.github.io/sitemap.xml
 
-User agent: Googlebot
+﻿User-agent: Googlebot
 Disallow: /
